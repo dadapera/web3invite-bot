@@ -1,0 +1,19 @@
+{
+  "name": "web3invite-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zknsBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadapera/web3invite-bot.git"
+  },
+  "author": "dadapera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dadapera/web3invite-bot/issues"
+  },
+  "homepage": "https://github.com/dadapera/web3invite-bot#readme"
+}
